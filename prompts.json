@@ -1,0 +1,18 @@
+{ 
+
+      "intents": [  
+    
+        {
+    
+          "tag": "greeting",
+          "patterns": ["Hi","Hey","How are you","Is anyone there?", "Hello","Good day"],
+          "responses": ["Hey, communicate with our chatbot to make sure your project is well built or to help you build one", "Hello, thanks for visiting", "Hi there, what can I do for you?","Hi there, how can I help?"]
+    },
+    {
+    
+        "tag": "AP",
+        "patterns": ["What are the hardest aps at Penn"],
+        "responses": ["Several key facors come into play. Some classes take a lot of notes while others will include heavy amout of homework", "AP Calculus AB, AP Chemisty, AP Language"]
+  }
+]
+}
